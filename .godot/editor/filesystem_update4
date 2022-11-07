@@ -1,0 +1,11 @@
+res://shop.tscn
+res://Global.gd
+res://Item.tscn
+res://Inventory.tscn
+res://Main.tscn
+res://Inventory.gd
+res://Slot.tscn
+res://InvContainer.gd
+res://Slot.gd
+res://ItemInfo.tscn
+res://ItemInfo.gd
