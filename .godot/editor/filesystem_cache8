@@ -1,0 +1,229 @@
+2a60927148abd1d33b818b535e306557
+::res://::1683131221
+Global.gd::GDScript::-1::1667783325::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::2020900277071517645::1666369284::1666369287::1::::<><>::
+InvContainer.gd::GDScript::-1::1667783539::0::1::::<>GridContainer<>::
+Inventory.gd::GDScript::-1::1667784861::0::1::::<>CanvasLayer<>::
+Inventory.tscn::PackedScene::2773411647103679710::1667785058::0::1::::<><>::res://Inventory.gd<>res://InvContainer.gd<>uid://dnfw3hgqa5hk3
+Item.tscn::PackedScene::617874553846316709::1667782750::0::1::::<><>::uid://b5iy8rb6kmo5k
+ItemInfo.gd::GDScript::-1::1667785020::0::1::::<>CanvasLayer<>::
+ItemInfo.tscn::PackedScene::8083425060874654204::1667785094::0::1::::<><>::res://ItemInfo.gd<>uid://b5iy8rb6kmo5k
+Main.tscn::PackedScene::1532798003973746187::1667785020::0::1::::<><>::uid://bm2103c2luqd0<>uid://b7wa8n4ndadvs<>res://Player.gd<>uid://clgxfs3657t5q<>uid://d0nxxm5v18ce5<>uid://bfrpxjouc78yk<>uid://ddmev7mxaucgg<>uid://bk8xk5nmsb7sg
+Player.gd::GDScript::-1::1667672237::0::1::::<>CharacterBody2D<>::
+shop.gd::GDScript::-1::1667675729::0::1::::<>CanvasLayer<>::
+shop.tscn::PackedScene::3157849531082392914::1667782750::0::1::::<><>::res://shop.gd<>uid://i2kkk83xthnh
+Slot.gd::GDScript::-1::1667784988::0::1::::<>Panel<>::
+Slot.tscn::PackedScene::5999826389465792045::1667785020::0::1::::<><>::res://Slot.gd<>uid://b5iy8rb6kmo5k
+::res://Pixel Adventure 1/::1667672028
+::res://Pixel Adventure 1/Free/::1667672029
+20 Enemies.png::CompressedTexture2D::3475034602261302249::1667492891::1667492892::1::::<><>::
+Hello.png::CompressedTexture2D::3987825691831389409::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Background/::1667672028
+Blue.png::CompressedTexture2D::4677939650095867640::1667492891::1667492892::1::::<><>::
+Brown.png::CompressedTexture2D::5690346543207264938::1667492891::1667492892::1::::<><>::
+Gray.png::CompressedTexture2D::736204285130302369::1667492891::1667492892::1::::<><>::
+Green.png::CompressedTexture2D::1268497949973250968::1667492891::1667492892::1::::<><>::
+Pink.png::CompressedTexture2D::5846397976258629088::1667492891::1667492892::1::::<><>::
+Purple.png::CompressedTexture2D::5213162797926448268::1667492891::1667492892::1::::<><>::
+Yellow.png::CompressedTexture2D::2835671375866074375::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/::1667672028
+::res://Pixel Adventure 1/Free/Items/Boxes/::1667672028
+::res://Pixel Adventure 1/Free/Items/Boxes/Box1/::1667672028
+Break.png::CompressedTexture2D::2655084549370251712::1667492891::1667492892::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::4378125527576264148::1667492891::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::4874394288475323290::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Boxes/Box2/::1667672028
+Break.png::CompressedTexture2D::6938844757650960130::1667492891::1667492892::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::3808650292202787079::1667492891::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::8119913634299946997::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Boxes/Box3/::1667672028
+Break.png::CompressedTexture2D::8120521634755916761::1667492891::1667492892::1::::<><>::
+Hit (28x24).png::CompressedTexture2D::2556565584848841840::1667492891::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::8925315994949747964::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/::1667672028
+::res://Pixel Adventure 1/Free/Items/Checkpoints/Checkpoint/::1667672028
+Checkpoint (Flag Idle)(64x64).png::CompressedTexture2D::8882595515745484115::1667492891::1667492892::1::::<><>::
+Checkpoint (Flag Out) (64x64).png::CompressedTexture2D::2926538420754898::1667492891::1667492892::1::::<><>::
+Checkpoint (No Flag).png::CompressedTexture2D::1979839512051547036::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/End/::1667672028
+End (Idle).png::CompressedTexture2D::6278766866161772171::1667492891::1667492892::1::::<><>::
+End (Pressed) (64x64).png::CompressedTexture2D::5646829235830864573::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Checkpoints/Start/::1667672028
+Start (Idle).png::CompressedTexture2D::3319007610796521688::1667492891::1667492892::1::::<><>::
+Start (Moving) (64x64).png::CompressedTexture2D::1207054814981903450::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Items/Fruits/::1667672028
+Apple.png::CompressedTexture2D::4510118049755914718::1667492891::1667492892::1::::<><>::
+Bananas.png::CompressedTexture2D::7833173538485642536::1667492891::1667492892::1::::<><>::
+Cherries.png::CompressedTexture2D::7798378778276045005::1667492891::1667492892::1::::<><>::
+Collected.png::CompressedTexture2D::1514351762397721666::1667492891::1667492892::1::::<><>::
+Kiwi.png::CompressedTexture2D::6063178659007784609::1667492891::1667492892::1::::<><>::
+Melon.png::CompressedTexture2D::7510077806438499035::1667492891::1667492892::1::::<><>::
+Orange.png::CompressedTexture2D::5611377383493100354::1667492891::1667492892::1::::<><>::
+Pineapple.png::CompressedTexture2D::3586542597688587390::1667492891::1667492892::1::::<><>::
+Strawberry.png::CompressedTexture2D::5274332623118923627::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/::1667672029
+Appearing (96x96).png::CompressedTexture2D::2230519960956643464::1667492891::1667492892::1::::<><>::
+Desappearing (96x96).png::CompressedTexture2D::5207352901955336445::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Mask Dude/::1667672028
+Double Jump (32x32).png::CompressedTexture2D::5950022829681096904::1667492891::1667492892::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::5239510101610150792::1667492891::1667492892::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::9094251030789283908::1667492891::1667492892::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::1349245677155563791::1667492891::1667492892::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::4932502751786356760::1667492891::1667492892::1::::<><>::
+Run (32x32).png::CompressedTexture2D::1454410278370031096::1667492891::1667492892::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::1942076039124246677::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Ninja Frog/::1667672028
+Double Jump (32x32).png::CompressedTexture2D::7464949667842537545::1667492891::1667492892::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::473574389107018702::1667492891::1667492892::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::9118510015310410252::1667492891::1667492892::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::5558711323856765336::1667492891::1667492892::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::2282276105835382860::1667492891::1667492892::1::::<><>::
+Run (32x32).png::CompressedTexture2D::8942258294540853494::1667492891::1667492892::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::7706554402737771062::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Pink Man/::1667672029
+Double Jump (32x32).png::CompressedTexture2D::1479391899979916656::1667492891::1667492892::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::3810695258320008000::1667492891::1667492892::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::739932319111299443::1667492891::1667492892::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::379026249818160152::1667492891::1667492892::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::7087757909294337909::1667492891::1667492892::1::::<><>::
+Run (32x32).png::CompressedTexture2D::2925564287222335640::1667492891::1667492892::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::8521284011590612680::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Main Characters/Virtual Guy/::1667672029
+Double Jump (32x32).png::CompressedTexture2D::5040637111396541953::1667492891::1667492892::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::7709994708547924157::1667492891::1667492892::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::9105314168095566038::1667492891::1667492892::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::7394883185015847258::1667492891::1667492892::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::8624854981191727044::1667492891::1667492892::1::::<><>::
+Run (32x32).png::CompressedTexture2D::5022821866361181235::1667492891::1667492892::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::5477380681285731245::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/::1667672029
+::res://Pixel Adventure 1/Free/Menu/Buttons/::1667672029
+Achievements.png::CompressedTexture2D::9028789597110365539::1667492891::1667492892::1::::<><>::
+Back.png::CompressedTexture2D::2302998284335926973::1667492891::1667492892::1::::<><>::
+Close.png::CompressedTexture2D::5009721002666744693::1667492891::1667492892::1::::<><>::
+Leaderboard.png::CompressedTexture2D::1558537888124767964::1667492891::1667492892::1::::<><>::
+Levels.png::CompressedTexture2D::4382837647870456393::1667492891::1667492892::1::::<><>::
+Next.png::CompressedTexture2D::6624692115632647158::1667492891::1667492892::1::::<><>::
+Play.png::CompressedTexture2D::78475042391198265::1667492891::1667492892::1::::<><>::
+Previous.png::CompressedTexture2D::2507885013271070582::1667492891::1667492892::1::::<><>::
+Restart.png::CompressedTexture2D::4719820444740262488::1667492891::1667492892::1::::<><>::
+Settings.png::CompressedTexture2D::5268484093481825541::1667492891::1667492892::1::::<><>::
+Volume.png::CompressedTexture2D::796478632733996398::1667492891::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/Levels/::1667672029
+01.png::CompressedTexture2D::1860480598417595698::1667492891::1667492892::1::::<><>::
+02.png::CompressedTexture2D::7071966206527082850::1667492891::1667492892::1::::<><>::
+03.png::CompressedTexture2D::1362694171452965643::1667492891::1667492892::1::::<><>::
+04.png::CompressedTexture2D::443177925514533530::1667492891::1667492892::1::::<><>::
+05.png::CompressedTexture2D::490888411409652845::1667492891::1667492892::1::::<><>::
+06.png::CompressedTexture2D::4735868489551369027::1667492892::1667492892::1::::<><>::
+07.png::CompressedTexture2D::3259449647351228431::1667492892::1667492892::1::::<><>::
+08.png::CompressedTexture2D::5834783808408175785::1667492892::1667492892::1::::<><>::
+09.png::CompressedTexture2D::6221577468343568709::1667492892::1667492892::1::::<><>::
+10.png::CompressedTexture2D::4242947895461957710::1667492892::1667492892::1::::<><>::
+11.png::CompressedTexture2D::8167949139301436653::1667492892::1667492892::1::::<><>::
+12.png::CompressedTexture2D::4157575321939319045::1667492892::1667492892::1::::<><>::
+13.png::CompressedTexture2D::8035388868796936459::1667492892::1667492892::1::::<><>::
+14.png::CompressedTexture2D::5815095101204594629::1667492892::1667492892::1::::<><>::
+15.png::CompressedTexture2D::6938155226351756427::1667492892::1667492892::1::::<><>::
+16.png::CompressedTexture2D::8089427502962854414::1667492892::1667492892::1::::<><>::
+17.png::CompressedTexture2D::7215129090965118924::1667492892::1667492892::1::::<><>::
+18.png::CompressedTexture2D::2287939092397590285::1667492892::1667492892::1::::<><>::
+19.png::CompressedTexture2D::5114764572638225086::1667492892::1667492892::1::::<><>::
+20.png::CompressedTexture2D::5348638851231466950::1667492892::1667492892::1::::<><>::
+21.png::CompressedTexture2D::1672519640792706565::1667492892::1667492892::1::::<><>::
+22.png::CompressedTexture2D::6256506374522024716::1667492892::1667492892::1::::<><>::
+23.png::CompressedTexture2D::4767559700618828100::1667492892::1667492892::1::::<><>::
+24.png::CompressedTexture2D::8295741340396447939::1667492892::1667492892::1::::<><>::
+25.png::CompressedTexture2D::7207234874641104000::1667492892::1667492892::1::::<><>::
+26.png::CompressedTexture2D::3702668984820402212::1667492892::1667492892::1::::<><>::
+27.png::CompressedTexture2D::7804780512622696689::1667492892::1667492892::1::::<><>::
+28.png::CompressedTexture2D::3499728952828652501::1667492892::1667492892::1::::<><>::
+29.png::CompressedTexture2D::2218296314330957703::1667492892::1667492892::1::::<><>::
+30.png::CompressedTexture2D::856786609497678887::1667492892::1667492892::1::::<><>::
+31.png::CompressedTexture2D::7005846157268180538::1667492892::1667492892::1::::<><>::
+32.png::CompressedTexture2D::8542144263802325093::1667492892::1667492892::1::::<><>::
+33.png::CompressedTexture2D::8450260088479729969::1667492892::1667492892::1::::<><>::
+34.png::CompressedTexture2D::7566049783758897620::1667492892::1667492892::1::::<><>::
+35.png::CompressedTexture2D::7411741730049468250::1667492892::1667492892::1::::<><>::
+36.png::CompressedTexture2D::3373461713366012828::1667492892::1667492892::1::::<><>::
+37.png::CompressedTexture2D::5311507341111378697::1667492892::1667492892::1::::<><>::
+38.png::CompressedTexture2D::7758018068866735151::1667492892::1667492892::1::::<><>::
+39.png::CompressedTexture2D::266590402791265958::1667492892::1667492892::1::::<><>::
+40.png::CompressedTexture2D::6974841701889644017::1667492892::1667492892::1::::<><>::
+41.png::CompressedTexture2D::8006957032966112347::1667492892::1667492892::1::::<><>::
+42.png::CompressedTexture2D::3243075603392420779::1667492892::1667492892::1::::<><>::
+43.png::CompressedTexture2D::4504052002872352425::1667492892::1667492892::1::::<><>::
+44.png::CompressedTexture2D::5114155049357066953::1667492892::1667492892::1::::<><>::
+45.png::CompressedTexture2D::5035796206062242430::1667492892::1667492892::1::::<><>::
+46.png::CompressedTexture2D::642197868332309098::1667492892::1667492892::1::::<><>::
+47.png::CompressedTexture2D::1573039831524481009::1667492892::1667492892::1::::<><>::
+48.png::CompressedTexture2D::5618175883991977725::1667492892::1667492892::1::::<><>::
+49.png::CompressedTexture2D::90834334727056203::1667492892::1667492892::1::::<><>::
+50.png::CompressedTexture2D::8926347245716739338::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Menu/Text/::1667672029
+Text (Black) (8x10).png::CompressedTexture2D::5526401844557174066::1667492892::1667492892::1::::<><>::
+Text (White) (8x10).png::CompressedTexture2D::7103794413442953895::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Other/::1667672029
+Confetti (16x16).png::CompressedTexture2D::9088233835326111895::1667492892::1667492892::1::::<><>::
+Dust Particle.png::CompressedTexture2D::4461562725029804265::1667492892::1667492892::1::::<><>::
+Shadow.png::CompressedTexture2D::949705749882484024::1667492892::1667492892::1::::<><>::
+Transition.png::CompressedTexture2D::8727300772284802695::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Terrain/::1667672029
+Terrain (16x16).png::CompressedTexture2D::3286049768354327791::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/::1667672029
+::res://Pixel Adventure 1/Free/Traps/Arrow/::1667672029
+Hit (18x18).png::CompressedTexture2D::5932774541252155020::1667492892::1667492892::1::::<><>::
+Idle (18x18).png::CompressedTexture2D::8134639219279554973::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Blocks/::1667672029
+HitSide (22x22).png::CompressedTexture2D::4401318159216765794::1667492892::1667492892::1::::<><>::
+HitTop (22x22).png::CompressedTexture2D::390788265150262145::1667492892::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::2454812206903451570::1667492892::1667492892::1::::<><>::
+Part 1 (22x22).png::CompressedTexture2D::2206211554930283560::1667492892::1667492892::1::::<><>::
+Part 2 (22x22).png::CompressedTexture2D::5350312300881658349::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Falling Platforms/::1667672029
+Off.png::CompressedTexture2D::7830928575275298521::1667492892::1667492892::1::::<><>::
+On (32x10).png::CompressedTexture2D::947508385087468280::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Fan/::1667672029
+Off.png::CompressedTexture2D::1065891706965092990::1667492892::1667492892::1::::<><>::
+On (24x8).png::CompressedTexture2D::604573814689949766::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Fire/::1667672029
+Hit (16x32).png::CompressedTexture2D::7830976274546149808::1667492892::1667492892::1::::<><>::
+Off.png::CompressedTexture2D::1843227142878035767::1667492892::1667492892::1::::<><>::
+On (16x32).png::CompressedTexture2D::4983965950364424090::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Platforms/::1667672029
+Brown Off.png::CompressedTexture2D::7875762235702625823::1667492892::1667492892::1::::<><>::
+Brown On (32x8).png::CompressedTexture2D::1772960555894820663::1667492892::1667492892::1::::<><>::
+Chain.png::CompressedTexture2D::946763359750312973::1667492892::1667492892::1::::<><>::
+Grey Off.png::CompressedTexture2D::1957372011501287846::1667492892::1667492892::1::::<><>::
+Grey On (32x8).png::CompressedTexture2D::6064681158904261946::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Rock Head/::1667672029
+Blink (42x42).png::CompressedTexture2D::2571169589540016405::1667492892::1667492892::1::::<><>::
+Bottom Hit (42x42).png::CompressedTexture2D::8224918874430196311::1667492892::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::23646879700563322::1667492892::1667492892::1::::<><>::
+Left Hit (42x42).png::CompressedTexture2D::2067000866028406784::1667492892::1667492892::1::::<><>::
+Right Hit (42x42).png::CompressedTexture2D::6265943445741507205::1667492892::1667492892::1::::<><>::
+Top Hit (42x42).png::CompressedTexture2D::1129306005883073232::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Sand Mud Ice/::1667672029
+Ice Particle.png::CompressedTexture2D::9175487922889941858::1667492892::1667492892::1::::<><>::
+Mud Particle.png::CompressedTexture2D::5610220944845122960::1667492892::1667492892::1::::<><>::
+Sand Mud Ice (16x6).png::CompressedTexture2D::4019331035620193771::1667492892::1667492892::1::::<><>::
+Sand Particle.png::CompressedTexture2D::2494043059653498674::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Saw/::1667672029
+Chain.png::CompressedTexture2D::7994574734128269126::1667492892::1667492892::1::::<><>::
+Off.png::CompressedTexture2D::3983157755676286240::1667492892::1667492892::1::::<><>::
+On (38x38).png::CompressedTexture2D::419900285516839757::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spike Head/::1667672029
+Blink (54x52).png::CompressedTexture2D::6782241099773166335::1667492892::1667492892::1::::<><>::
+Bottom Hit (54x52).png::CompressedTexture2D::5121548735166977291::1667492892::1667492892::1::::<><>::
+Idle.png::CompressedTexture2D::4740969917455834981::1667492892::1667492892::1::::<><>::
+Left Hit (54x52).png::CompressedTexture2D::1445986724382543662::1667492892::1667492892::1::::<><>::
+Right Hit (54x52).png::CompressedTexture2D::1608811047528464007::1667492892::1667492892::1::::<><>::
+Top Hit (54x52).png::CompressedTexture2D::3135650218176923559::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spiked Ball/::1667672029
+Chain.png::CompressedTexture2D::2574767129320977229::1667492892::1667492892::1::::<><>::
+Spiked Ball.png::CompressedTexture2D::7612957344614304307::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Spikes/::1667672029
+Idle.png::CompressedTexture2D::667682120083267010::1667492892::1667492892::1::::<><>::
+::res://Pixel Adventure 1/Free/Traps/Trampoline/::1667672029
+Idle.png::CompressedTexture2D::5224311837036489411::1667492892::1667492892::1::::<><>::
+Jump (28x28).png::CompressedTexture2D::3483711123117839313::1667492892::1667492892::1::::<><>::
